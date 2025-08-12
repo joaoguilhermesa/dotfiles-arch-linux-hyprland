@@ -1,0 +1,14 @@
+{
+    "version: :"2.0.0",
+    "tasks": [
+    {
+    "label": "Compiler C ANSI",
+    "type": "shhell",
+    "command": "gcc",
+    "args": [
+    "-std=c89",
+    "-pedantic",
+    "-Wall",
+    "main.c",
+    "-o",
+    ""

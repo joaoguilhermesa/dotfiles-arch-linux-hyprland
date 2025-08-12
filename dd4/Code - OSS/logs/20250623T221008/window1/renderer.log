@@ -1,0 +1,7 @@
+2025-06-23 22:10:20.105 [info] Started local extension host with pid 1278.
+2025-06-23 22:10:20.618 [info] ComputeTargetPlatform: linux-x64
+2025-06-23 22:10:24.741 [info] [perf] Render performance baseline is 72ms
+2025-06-23 22:10:59.901 [info] Started local extension host with pid 1365.
+2025-06-23 22:10:59.923 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-06-23 22:10:59.958 [info] ComputeTargetPlatform: linux-x64
+2025-06-23 22:11:02.869 [info] [perf] Render performance baseline is 97ms

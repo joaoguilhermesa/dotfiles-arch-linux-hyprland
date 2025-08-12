@@ -1,0 +1,8 @@
+2025-06-23 16:29:49.662 [info] Started local extension host with pid 965.
+2025-06-23 16:29:49.762 [info] ComputeTargetPlatform: linux-x64
+2025-06-23 16:29:55.242 [info] [perf] Render performance baseline is 42ms
+2025-06-23 16:37:01.732 [info] Started local extension host with pid 1540.
+2025-06-23 16:37:01.775 [info] ComputeTargetPlatform: linux-x64
+2025-06-23 16:37:02.357 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-06-23 16:37:04.682 [info] [perf] Render performance baseline is 38ms
+2025-06-23 16:44:44.412 [warning] [File Watcher ('parcel')] Watcher shutdown because watched path got deleted (path: /home/alice/.config/wofi)

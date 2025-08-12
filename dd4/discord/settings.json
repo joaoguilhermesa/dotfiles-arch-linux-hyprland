@@ -1,0 +1,14 @@
+{
+  "chromiumSwitches": {},
+  "IS_MAXIMIZED": false,
+  "IS_MINIMIZED": false,
+  "WINDOW_BOUNDS": {
+    "x": 691,
+    "y": 41,
+    "width": 664,
+    "height": 716
+  },
+  "BACKGROUND_COLOR": "#121214",
+  "enableHardwareAcceleration": false,
+  "offloadAdmControls": false
+}

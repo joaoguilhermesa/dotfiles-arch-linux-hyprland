@@ -1,0 +1,20 @@
+{
+font-family: FontAwesome, Roboto, Helvetica, Arial, sans-serif;
+background: transparent;
+color: #d8cab8;
+}
+
+#window {
+    color: #d8cab8;
+    border-color: #d8cab8;
+    border-style: solid;
+    border-width: 2px;
+
+    background-image: linear-gradient(to bottom, #121212 100%);
+    border-radius: 14px;
+    border-width: 1px;
+    border-color: ;
+
+
+
+}

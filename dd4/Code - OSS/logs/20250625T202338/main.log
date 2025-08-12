@@ -1,0 +1,13 @@
+2025-06-25 20:23:44.194 [info] update#setState disabled
+2025-06-25 20:23:44.194 [info] update#ctor - updates are disabled as there is no update URL
+2025-06-25 20:24:02.328 [error] [DialogMainService]: file open dialog is already or will be showing for the window with the same configuration
+2025-06-25 20:24:12.985 [error] [DialogMainService]: file open dialog is already or will be showing for the window with the same configuration
+2025-06-25 20:24:21.498 [error] [DialogMainService]: file open dialog is already or will be showing for the window with the same configuration
+2025-06-25 20:24:33.727 [error] [DialogMainService]: file open dialog is already or will be showing for the window with the same configuration
+2025-06-25 20:24:59.309 [error] [DialogMainService]: file open dialog is already or will be showing for the window with the same configuration
+2025-06-25 20:25:04.035 [error] [DialogMainService]: file open dialog is already or will be showing for the window with the same configuration
+2025-06-25 20:25:07.863 [error] [DialogMainService]: file open dialog is already or will be showing for the window with the same configuration
+2025-06-25 20:25:22.322 [info] Extension host with pid 1057 exited with code: 0, signal: unknown.
+2025-06-25 20:25:22.403 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 1068]: crashed with code 15 and reason 'killed'
+2025-06-25 20:34:24.880 [info] Extension host with pid 1243 exited with code: 0, signal: unknown.
+2025-06-25 20:34:25.060 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 1244]: crashed with code 15 and reason 'killed'

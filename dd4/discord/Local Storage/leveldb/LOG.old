@@ -1,0 +1,56 @@
+2025/07/01-20:09:13.127 4fb8 Reusing MANIFEST /home/alice/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/07/01-20:09:13.139 4fb8 Recovering log #68
+2025/07/01-20:09:13.139 4fb8 Level-0 table #71: started
+2025/07/01-20:09:13.198 4fb8 Level-0 table #71: 42552 bytes OK
+2025/07/01-20:09:13.234 4fb8 Delete type=0 #68
+2025/07/01-20:09:13.235 4fb8 Compacting 4@0 + 1@1 files
+2025/07/01-20:09:13.446 4fb8 Generated table #73@0: 126 keys, 2624796 bytes
+2025/07/01-20:09:13.447 4fb8 Compacted 4@0 + 1@1 files => 2624796 bytes
+2025/07/01-20:09:13.573 4fb8 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/07/01-20:09:13.573 4fb8 Delete type=2 #69
+2025/07/01-20:09:13.573 4fb8 Delete type=2 #67
+2025/07/01-20:09:13.573 4fb8 Delete type=2 #65
+2025/07/01-20:09:13.574 4fb8 Delete type=2 #71
+2025/07/01-20:09:13.574 4fb8 Delete type=2 #63
+2025/07/01-20:13:16.842 4fb9 Level-0 table #75: started
+2025/07/01-20:13:17.000 4fb9 Level-0 table #75: 1572732 bytes OK
+2025/07/01-20:13:17.036 4fb9 Delete type=0 #72
+2025/07/01-20:15:37.935 4fb9 Level-0 table #77: started
+2025/07/01-20:15:38.019 4fb9 Level-0 table #77: 48501 bytes OK
+2025/07/01-20:15:38.055 4fb9 Delete type=0 #74
+2025/07/01-20:16:23.216 4fb9 Level-0 table #79: started
+2025/07/01-20:16:23.309 4fb9 Level-0 table #79: 42423 bytes OK
+2025/07/01-20:16:23.349 4fb9 Delete type=0 #76
+2025/07/01-22:29:54.831 4fb9 Level-0 table #81: started
+2025/07/01-22:29:54.875 4fb9 Level-0 table #81: 54267 bytes OK
+2025/07/01-22:29:54.911 4fb9 Delete type=0 #78
+2025/07/01-22:29:54.913 4fb9 Compacting 4@0 + 1@1 files
+2025/07/01-22:29:55.111 4fb9 Generated table #82@0: 126 keys, 2624901 bytes
+2025/07/01-22:29:55.112 4fb9 Compacted 4@0 + 1@1 files => 2624901 bytes
+2025/07/01-22:29:55.144 4fb9 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/07/01-22:29:55.144 4fb9 Delete type=2 #81
+2025/07/01-22:29:55.144 4fb9 Delete type=2 #79
+2025/07/01-22:29:55.144 4fb9 Delete type=2 #73
+2025/07/01-22:29:55.144 4fb9 Delete type=2 #75
+2025/07/01-22:29:55.145 4fb9 Delete type=2 #77
+2025/07/01-22:38:12.168 4fb9 Level-0 table #84: started
+2025/07/01-22:38:12.218 4fb9 Level-0 table #84: 43043 bytes OK
+2025/07/01-22:38:12.264 4fb9 Delete type=0 #80
+2025/07/01-22:40:26.441 4fb9 Level-0 table #86: started
+2025/07/01-22:40:26.501 4fb9 Level-0 table #86: 43025 bytes OK
+2025/07/01-22:40:26.539 4fb9 Delete type=0 #83
+2025/07/01-22:41:43.694 4fb9 Level-0 table #88: started
+2025/07/01-22:41:43.773 4fb9 Level-0 table #88: 42703 bytes OK
+2025/07/01-22:41:43.816 4fb9 Delete type=0 #85
+2025/07/01-22:41:55.883 4fb9 Level-0 table #90: started
+2025/07/01-22:41:56.055 4fb9 Level-0 table #90: 42681 bytes OK
+2025/07/01-22:41:56.097 4fb9 Delete type=0 #87
+2025/07/01-22:41:56.097 4fb9 Compacting 4@0 + 1@1 files
+2025/07/01-22:41:56.247 4fb9 Generated table #91@0: 126 keys, 2624859 bytes
+2025/07/01-22:41:56.247 4fb9 Compacted 4@0 + 1@1 files => 2624859 bytes
+2025/07/01-22:41:56.285 4fb9 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/07/01-22:41:56.285 4fb9 Delete type=2 #82
+2025/07/01-22:41:56.285 4fb9 Delete type=2 #88
+2025/07/01-22:41:56.285 4fb9 Delete type=2 #84
+2025/07/01-22:41:56.286 4fb9 Delete type=2 #90
+2025/07/01-22:41:56.286 4fb9 Delete type=2 #86

@@ -1,0 +1,4 @@
+2025-06-23 16:23:09.515 [info] update#setState disabled
+2025-06-23 16:23:09.520 [info] update#ctor - updates are disabled as there is no update URL
+2025-06-23 16:23:30.000 [error] Blocked vscode-webview request vscode-webview://06cqop9m98dmddq4e5ca8t43ngqfjp8dgj5j2orsptumr6f95q79/index.html?id=0b586d07-612c-4256-9635-41a670484c00&parentId=1&origin=0b586d07-612c-4256-9635-41a670484c00&swVersion=4&extensionId=&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app&disableServiceWorker=true
+2025-06-23 16:23:57.474 [info] Extension host with pid 20615 exited with code: 0, signal: unknown.
