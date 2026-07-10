@@ -2,7 +2,7 @@
 
 Personal configuration files for my Arch Linux environment.
 
-Most configuration files were customized and maintained by me during the setup of my Arch Linux environment.
+Most configuration files were customized and maintained by me during the setup of my Arch Linux
 
 ## Overview
 
