@@ -1,4 +1,4 @@
-# dotfiles pesoal
+# dotfiles
 
 Personal configuration files for my Arch Linux environment.
 
